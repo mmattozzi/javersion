@@ -1,0 +1,20 @@
+Check out homepage on googlecode: http://code.google.com/p/javersion/
+
+Include in POM: 
+
+There aren't any official releases yet, but you can add it to your maven project by adding this dependency to your pom's dependency section:
+
+<dependency>
+      <groupId>org.restlesscode.javersion</groupId>
+      <artifactId>javersion</artifactId>
+      <version>1.0.0-SNAPSHOT</version>
+</dependency>
+And by adding this to the repository section:
+
+<repositories>
+    <repository>
+      <id>javersionrepo</id>
+      <name>javersion repo</name>
+      <url>http://javersion.googlecode.com/svn/maven2</url>
+    </repository>
+</repositories>
