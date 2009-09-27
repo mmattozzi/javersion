@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+  <groupId>org.restlesscode.javersion</groupId>
+  <artifactId>javersion</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+      <version>1.0</version>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20090927161551</lastUpdated>
+  </versioning>
+</metadata>
